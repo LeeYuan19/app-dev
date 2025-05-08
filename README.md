@@ -1,24 +1,24 @@
 # app-dev
 My First Repository
-# Favorite Show
+# My Favorite Show: True Beauty
 
-## Can't Buy Me Love
+![True Beauty Cast](https://m.media-amazon.com/images/M/MV5BYzYxYjYzY2QtYjQ5Zi00YzYxLWE2YjItMzE2YjQzYjQ3YjYzXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg)
 
-![Can't Buy Me Love Poster]([https://via.placeholder.com/600x400.png?text=Can't+Buy+Me+Love+Poster](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.justwatch.com%2Fph%2Ftv-show%2Fcant-buy-me-love-2023&psig=AOvVaw3wAh7a96zMrczjE7pvlduT&ust=1746771703843000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLC41--dk40DFQAAAAAdAAAAABAR))
+*True Beauty* is a South Korean television series based on the webtoon of the same name. It follows the story of a high school girl who uses makeup to boost her self-esteem and hide her insecurities.
 
-*Can't Buy Me Love* is a popular Filipino romantic-comedy television series that beautifully blends drama, humor, and romance. The story revolves around the unexpected love story between Bingo, a hardworking guy from Divisoria, and Caroline, a rich girl from a wealthy Chinese-Filipino family.
+## Why I Like It
 
-### Why I Love It
-
-- *Relatable Characters*: Each character has depth and relatability, making it easy to connect with their struggles and joys.
-- *Strong Chemistry*: The lead actors have amazing chemistry that brings the love story to life.
-- *Heartwarming and Funny*: The show delivers both emotional moments and hilarious scenes that make every episode enjoyable.
-- *Cultural Touch*: It showcases Filipino-Chinese traditions and everyday Filipino life in a fresh and engaging way.
-
-*"Can't Buy Me Love is not just a love story—it's a story about family, dreams, and resilience."*
+Great storyline with strong character development
+Relatable themes about self-image and confidence
+Amazing chemistry between the lead actors
+Beautiful cinematography and soundtrack
 
 
-### Cast Highlights
-- *Donny Pangilinan* as Bingo
-- *Belle Mariano* as Caroline
-Supporting cast includes a great mix of veteran and new actors who add depth to the story.
+## Main Cast
+
+Moon Ga-young as Lim Ju-kyung
+Cha Eun-woo as Lee Su-ho
+Hwang In-yeop as Han Seo-jun
+
+
+*"True beauty is not what's outside, but what's inside your heart."*
