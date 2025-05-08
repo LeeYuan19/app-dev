@@ -2,7 +2,7 @@
 My First Repository
 # 🌸 My Favorite Show: True Beauty (여신강림)
 
-![True Beauty Poster](https://upload.wikimedia.org/wikipedia/en/1/11/True_Beauty_TV_series.jpg)
+![True Beauty Poster]([https://upload.wikimedia.org/wikipedia/en/1/11/True_Beauty_TV_series.jpg](https://github.com/LeeYuan19/app-dev/blob/4492845d420fc8047a3383f4b9c3b3856e7e4a14/images%20(4).jpeg))
 
 *True Beauty* (여신강림) is a 2020–2021 South Korean television series based on the popular webtoon by Yaongyi. It tells the story of a girl who uses makeup to transform her appearance and explores themes of beauty, self-worth, and love.
 
