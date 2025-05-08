@@ -10,14 +10,14 @@ My First Repository
 
 ## 📖 Plot Summary
 
-Lim Ju-kyung, a high school student, has been bullied for her appearance. To overcome her insecurities, she masters the art of makeup, transforming herself into a "goddess" at school. However, she lives in fear of her classmates discovering her bare face. The story unfolds as she navigates friendships, love, and self-acceptance, especially when two classmates, Lee Su-ho and Han Seo-jun, get involved in her life.
+Lim Ju-kyung, a high school student, has been bullied for her appearance. To overcome her insecurities, she practices and masters the art of makeup, transforming herself into a "goddess" at school. However, she lives in fear of her classmates discovering her bare face. The story continues as she make friends, love, and self-acceptance, especially when two classmates, Lee Su-ho and Han Seo-jun, get involved in her life.
 ---
 
 ## 🎭 Main Characters
 
 ### 1. *Lim Ju-kyung* – portrayed by Moon Ga-young  
 ![image alt](https://github.com/LeeYuan19/app-dev/blob/8d5b16f3376a047ccfa7d9fd42f763bc9ad77205/True-Beauty-Fashion-Moon-Ga-Young.jpg)  
-A sweet, shy girl who learns to embrace her inner and outer beauty.
+A cheerful and kind-hearted girl who uses makeup to boost her self-esteem. She hides her bare face due to past bullying but gradually learns to embrace her true self..
 
 ---
 
@@ -30,7 +30,7 @@ A handsome top student with a cold exterior and a warm heart.
 
 ### 3. *Han Seo-jun* – portrayed by Hwang In-youp  
 ![image alt](https://github.com/LeeYuan19/app-dev/blob/8d5b16f3376a047ccfa7d9fd42f763bc9ad77205/Han.jpg)
-A misunderstood rebel with a golden heart and a hidden talent for singing.
+A rebellious yet warm-hearted student and former friend of Su-ho. He hides a soft side behind his tough image..
 
 ---
 
@@ -38,7 +38,7 @@ A misunderstood rebel with a golden heart and a hidden talent for singing.
 
 It shows how confidence can grow from within.
 The characters are charming, flawed, and relatable.
-The story blends humor, romance, and emotion beautifully.
+The story itself has humor, romance, and emotion beautifully.
 
 
 ---
