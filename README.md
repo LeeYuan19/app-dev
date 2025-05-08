@@ -24,7 +24,8 @@ A sweet, shy girl who learns to embrace her inner and outer beauty.
 
 ### 2. *Lee Su-ho* – portrayed by Cha Eun-woo  
 ![image alt](https://github.com/LeeYuan19/app-dev/blob/8d5b16f3376a047ccfa7d9fd42f763bc9ad77205/Lee.jpg)
-       A handsome top student with a cold exterior and a warm heart.
+
+A handsome top student with a cold exterior and a warm heart.
 
 ---
 
