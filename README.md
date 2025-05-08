@@ -17,19 +17,19 @@ Lim Ju-kyung, once bullied for her looks, becomes a makeup expert and reinvents 
 ## 🎭 Main Characters
 
 ### 1. *Lim Ju-kyung* – portrayed by Moon Ga-young  
-![Lim Ju-kyung](https://i.pinimg.com/originals/3e/b1/f4/3eb1f4459aeea4dbefb693b1d44f36e0.jpg)  
+![image alt](https://github.com/LeeYuan19/app-dev/blob/8d5b16f3376a047ccfa7d9fd42f763bc9ad77205/True-Beauty-Fashion-Moon-Ga-Young.jpg)  
 A sweet, shy girl who learns to embrace her inner and outer beauty.
 
 ---
 
 ### 2. *Lee Su-ho* – portrayed by Cha Eun-woo  
-![Lee Su-ho](https://i.pinimg.com/originals/e7/1f/f2/e71ff2016ffb6dd961c62ac3165031a7.jpg)  
+![image alt](https://github.com/LeeYuan19/app-dev/blob/8d5b16f3376a047ccfa7d9fd42f763bc9ad77205/Lee.jpg)
 A handsome top student with a cold exterior and a warm heart.
 
 ---
 
 ### 3. *Han Seo-jun* – portrayed by Hwang In-youp  
-![Han Seo-jun](https://i.pinimg.com/originals/e5/5d/cb/e55dcb6e6d902d4c3884dc9ff6dfb6a0.jpg)  
+![image alt](https://github.com/LeeYuan19/app-dev/blob/8d5b16f3376a047ccfa7d9fd42f763bc9ad77205/Han.jpg)
 A misunderstood rebel with a golden heart and a hidden talent for singing.
 
 ---
