@@ -4,37 +4,43 @@ My First Repository
 
 ![True Beauty Poster](https://upload.wikimedia.org/wikipedia/en/1/11/True_Beauty_TV_series.jpg)
 
-*True Beauty* (여신강림) is a 2020–2021 South Korean television series based on the webtoon by Yaongyi. It aired on tvN and stars Moon Ga-young, Cha Eun-woo, and Hwang In-youp.
+*True Beauty* (여신강림) is a 2020–2021 South Korean television series based on the popular webtoon by Yaongyi. It tells the story of a girl who uses makeup to transform her appearance and explores themes of beauty, self-worth, and love.
+
+---
 
 ## 📖 Plot Summary
 
-Lim Ju-kyung, a high school girl bullied for her appearance, learns to use makeup to boost her confidence. She hides her bare face until two boys, Su-ho and Seo-jun, enter her life and help her discover her real beauty.
+Lim Ju-kyung, once bullied for her looks, becomes a makeup expert and reinvents herself as a “goddess.” But her secret is threatened when two classmates—Lee Su-ho and Han Seo-jun—start getting close, both seeing her for who she really is.
+
+---
 
 ## 🎭 Main Characters
 
 ### 1. *Lim Ju-kyung* – portrayed by Moon Ga-young  
-![Lim Ju-kyung](https://i.pinimg.com/originals/8e/89/49/8e894977f10f5ff6a3b02bb95e4c6377.jpg)  
-A cheerful and kind girl who masters makeup to gain confidence.
+![Lim Ju-kyung](https://i.pinimg.com/originals/3e/b1/f4/3eb1f4459aeea4dbefb693b1d44f36e0.jpg)  
+A sweet, shy girl who learns to embrace her inner and outer beauty.
+
+---
 
 ### 2. *Lee Su-ho* – portrayed by Cha Eun-woo  
-![Lee Su-ho](https://i.pinimg.com/originals/b6/1b/4b/b61b4be4ee0fd21947a2487627337d1e.jpg)  
-A cold, intelligent student with a hidden warm side and a painful past.
+![Lee Su-ho](https://i.pinimg.com/originals/e7/1f/f2/e71ff2016ffb6dd961c62ac3165031a7.jpg)  
+A handsome top student with a cold exterior and a warm heart.
+
+---
 
 ### 3. *Han Seo-jun* – portrayed by Hwang In-youp  
-![Han Seo-jun](https://i.pinimg.com/originals/56/2a/e4/562ae42cb2d43f7b1dc4b3a6c9492c92.jpg)  
-A rebellious yet loyal friend with a strong sense of justice.
+![Han Seo-jun](https://i.pinimg.com/originals/e5/5d/cb/e55dcb6e6d902d4c3884dc9ff6dfb6a0.jpg)  
+A misunderstood rebel with a golden heart and a hidden talent for singing.
+
+---
 
 ## 💖 Why I Love True Beauty
 
-Inspiring message about self-acceptance  
-Great chemistry and humor  
-Touching and relatable characters
+It shows how confidence can grow from within.
+The characters are charming, flawed, and relatable.
+The story blends humor, romance, and emotion beautifully.
 
 
-*"True beauty is about being yourself, inside and out."*
+---
 
-
-## 🔗 Resources
-[IMDb](https://www.imdb.com/title/tt13274038/)
-[Wikipedia](https://en.wikipedia.org/wiki/True_Beauty_(South_Korean_TV_series))
-[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+*“True beauty is being true to yourself.”*
