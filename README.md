@@ -9,7 +9,9 @@ It has a mix of drama, romance, and humor that keeps me entertained.
 
 ### Why I Like It:
 Great storyline
+
 Great character development time by time
+
 Entertaining Love Story and Slice of life
 
 
