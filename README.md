@@ -10,8 +10,7 @@ My First Repository
 
 ## 📖 Plot Summary
 
-Lim Ju-kyung, once bullied for her looks, becomes a makeup expert and reinvents herself as a “goddess.” But her secret is threatened when two classmates—Lee Su-ho and Han Seo-jun—start getting close, both seeing her for who she really is.
-
+Lim Ju-kyung, a high school student, has been bullied for her appearance. To overcome her insecurities, she masters the art of makeup, transforming herself into a "goddess" at school. However, she lives in fear of her classmates discovering her bare face. The story unfolds as she navigates friendships, love, and self-acceptance, especially when two classmates, Lee Su-ho and Han Seo-jun, get involved in her life.
 ---
 
 ## 🎭 Main Characters
