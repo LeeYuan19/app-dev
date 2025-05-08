@@ -24,7 +24,8 @@ A cheerful and kind-hearted girl who uses makeup to boost her self-esteem. She h
 ### 2. *Lee Su-ho* – portrayed by Cha Eun-woo  
 ![image alt](https://github.com/LeeYuan19/app-dev/blob/8d5b16f3376a047ccfa7d9fd42f763bc9ad77205/Lee.jpg)
 
-A handsome top student with a cold exterior and a warm heart.
+A top student with a cold demeanor but a warm heart. He has a painful past and finds solace in Ju-kyung's sincerity.
+
 
 ---
 
