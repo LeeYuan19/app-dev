@@ -2,7 +2,7 @@
 My First Repository
 # 🌸 My Favorite Show: True Beauty (여신강림)
 
-![True Beauty Poster](https://upload.wikimedia.org/wikipedia/en/1/11/True_Beauty_TV_series.jpg)
+![True Beauty Poster](https://upload.wikimedia.org/wikipedia/en/1/11/True_Beauty_TV_series(image.jpg)
 
 *True Beauty* (여신강림) is a 2020–2021 South Korean television series based on the popular webtoon by Yaongyi. It aired on tvN from December 9, 2020, to February 4, 2021. The series stars Moon Ga-young, Cha Eun-woo, and Hwang In-youp.
 
