@@ -2,7 +2,7 @@
 My First Repository
 # My Favorite Show: True Beauty
 
-![True Beauty Cast](https://m.media-amazon.com/images/M/MV5BYzYxYjYzY2QtYjQ5Zi00YzYxLWE2YjItMzE2YjQzYjQ3YjYzXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg)
+![True Beauty Poster](https://upload.wikimedia.org/wikipedia/en/1/11/True_Beauty_TV_series.jpg)
 
 *True Beauty* is a South Korean television series based on the webtoon of the same name. It follows the story of a high school girl who uses makeup to boost her self-esteem and hide her insecurities.
 
