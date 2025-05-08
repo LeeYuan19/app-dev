@@ -4,7 +4,7 @@ My First Repository
 
 ## Can't Buy Me Love
 
-![Can't Buy Me Love Poster](https://via.placeholder.com/600x400.png?text=Can't+Buy+Me+Love+Poster)
+![Can't Buy Me Love Poster]([https://via.placeholder.com/600x400.png?text=Can't+Buy+Me+Love+Poster](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.justwatch.com%2Fph%2Ftv-show%2Fcant-buy-me-love-2023&psig=AOvVaw3wAh7a96zMrczjE7pvlduT&ust=1746771703843000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLC41--dk40DFQAAAAAdAAAAABAR))
 
 *Can't Buy Me Love* is a popular Filipino romantic-comedy television series that beautifully blends drama, humor, and romance. The story revolves around the unexpected love story between Bingo, a hardworking guy from Divisoria, and Caroline, a rich girl from a wealthy Chinese-Filipino family.
 
